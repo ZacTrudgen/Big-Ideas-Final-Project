@@ -1,0 +1,20 @@
+Calories burned:
+(in kcal for a 70kg man over 60 minutes)
+	Stairs: 515
+		(https://slimlogs.com/sport/stairmaster.html)
+	Trees: 595
+		(https://slimlogs.com/sport/recreational-tree-climbing.html)
+	Playgrounds: 441
+		(https://slimlogs.com/sport/pole-dancing.html)
+	Abandoned buildings: 588
+		(https://slimlogs.com/sport/trad-climbing.html)
+
+Total: 2139
+Average: 534.75
+
+Final weights:
+(kcal / average)
+	Stairs: 0.963
+	Trees: 1.113
+	Playgrounds: 0.825
+	Abandoned buildings: 1.100
